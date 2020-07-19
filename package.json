@@ -1,0 +1,9 @@
+{
+  "name": "eis-module-demo",
+  "version": "0.0.1",
+  "description": "The build-in demo module for EIS BE.",
+  "main": "index.js",
+  "author": "zhiquan",
+  "license": "GPL-1.0-or-later",
+  "private": false
+}
