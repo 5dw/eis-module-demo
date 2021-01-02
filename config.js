@@ -1,6 +1,6 @@
 module.exports = {
     name: 'Karl',
     asRouteService: true,
-    dependencies: ['mongodb'],
+    dependencies: ['db'],
     followedBy: []
 }
